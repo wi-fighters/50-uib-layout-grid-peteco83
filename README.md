@@ -12,11 +12,11 @@
 
 You NOW have an empty row at the bottom of your container. Select items and span them across columns and rows in order to fill that empty row.
 
-*   MAKE SURE: to only span 2 columns OR 2 rows at a time.
+* **Note**: only span 2 columns OR 2 rows at a time.
 
 *   Images for reference:
-    ![task1](./Grid-12Boxes/images/task1.png)
-    ![task2](./Grid-12Boxes/images/example_task2.png)
+    ![task1](/images/task1.png)
+    ![task2](/images/example_task2.png)
 
     ### Rules
 
@@ -25,4 +25,3 @@ You NOW have an empty row at the bottom of your container. Select items and span
     -   Use **Git properly**
     -   Feel free to document your code with comments.
 
-------------------------------------------------------------------------------------------------------------------------------
